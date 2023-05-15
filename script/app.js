@@ -11,3 +11,5 @@ function remove(){
 function result(){
     document.getElementById('result').value = eval(document.getElementById('result').value)
 }
+
+
