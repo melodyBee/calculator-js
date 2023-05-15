@@ -1,8 +1,8 @@
 function getnum(num){
     document.getElementById('result').value += num;
 }
-function clear(){
-    document.getElementById('result').value = '';
+function clearNum(){
+    document.getElementById('result').value='';
 }
 function remove(){
     var res = document.getElementById('result').value;
